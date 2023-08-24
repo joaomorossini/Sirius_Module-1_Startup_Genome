@@ -1,4 +1,7 @@
-# Genome
+## The Project
+This is part of the hands-on project for the [Master in Data & Decision Science](https://github.com/joaomorossini/Master-in-Data-Science) course, by [Sirius School of Technology](https://landing.sirius.education/home/) - Module 1 - Statistical Analysis and Business Intelligence.
+
+## Startup Genome
 
 Startup Genome’s Global Startup Ecosystem Report (GSER) is powered by the world’s most comprehensive and quality controlled dataset on startup ecosystems. Informed by information on 3.5 million startups across 290 global ecosystems, our data and insights are the product of over a decade of independent research and policy work.
 
