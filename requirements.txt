@@ -1,0 +1,8 @@
+jupyter
+pandas~=2.0.2
+matplotlib
+pyarrow
+openpyxl
+bokeh
+xyzservices
+bokeh
