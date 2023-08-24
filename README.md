@@ -4,11 +4,18 @@ Startup Genome’s Global Startup Ecosystem Report (GSER) is powered by the worl
 
 GSER 2023 ranks the top 30 and 10 runner-up global ecosystems, and includes a top 100 ranking of emerging ecosystems. It also takes a look at startup communities from a regional perspective, separately ranking ecosystems in Africa, Asia, Europe, Latin America, MENA, North America, and Oceania.
 
+## Disclaimer
+
+This repository shows the chosen approach to cleaning, organizing and structuring the data using Python, but it DOES NOT provide access to the data itself. The data used in this project is proprietary and can only be accessed by the [Startup Genome](https://startupgenome.com/) team and by authorized partners.
+
 ## Developers
 
-- Leo Koki Shashiki ([LinkedIn](https://www.linkedin.com/in/leo-koki-shashiki/))
-- Rafael Costa ([LinkedIn](https://www.linkedin.com/in/rafael-costa-a642752b/))
-- Thiago Seronni Mendonça ([LinkedIn](https://www.linkedin.com/in/thiagoseronni/))
+- [João Morossini](https://github.com/joaomorossini) ([LinkedIn](https://www.linkedin.com/in/joaomorossini/))
+- [Thiago Seronni Mendonça](https://github.com/tseronni) ([LinkedIn](https://www.linkedin.com/in/thiagoseronni/))
+- [Leo Koki Shashiki](https://github.com/leokoki) ([LinkedIn](https://www.linkedin.com/in/leo-koki-shashiki/))
+- [Max Meneghini](https:https://github.com/maxmeneghini) ([LinkedIn](https://www.linkedin.com/))
+- [Rafael Costa](https://github.com/rqcmendes) ([LinkedIn](https://www.linkedin.com/in/rafael-costa-a642752b/))
+
 
 ## Folder Structure
 
@@ -40,23 +47,9 @@ GSER 2023 ranks the top 30 and 10 runner-up global ecosystems, and includes a to
 ## Installation
 
 pip install -r requirements.txt
-- Fazer o download dos seguintes datasets deste ([link](https://drive.google.com/drive/folders/1Mk5qH7iJ5L3BfliJhzjaSjpHYGgeOPHg)) e colocar na pasta genome\data\raw
+- Download the datasets and place them in "genome\data\raw"
   - abstract.csv
   - IPC Titles.xlsx
   - ListOfCompanies.csv
   - raw_patents.csv
   - table_for_applicants.csv
-
-- Atenção: Não é necessário criar o arquivo parquet dos csv pois será criado automático.
-
-## Uso
-
-Exemplos de uso do projeto.
-
-## Contribuição
-
-Informações sobre como contribuir com o projeto.
-
-## Licença
-
-Licença do projeto, se aplicável.
